@@ -1,7 +1,9 @@
 # OnlineJuizes
 
-Exercises
+## Exercises
 
-### 1 - ModeOfFrequencies ###
-Link : https://www.codechef.com/problems/MODEFREQ
-Solution : 
+## 1 - ModeOfFrequencies
+
+### Link : https://www.codechef.com/problems/MODEFREQ
+
+### Solution : 
